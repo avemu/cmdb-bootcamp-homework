@@ -8,10 +8,10 @@ echo "There are around 6 mistakes"
 
 FASTQ_DIR=/Users/cmdb/data/fastq
 OUTPUT_DIR=/Users/cmdb/data/day1
-=SRR072
+fly_gene=SRR072
 
 GENOME_DIR=/Users/cmdb/data/genomes
-=dmel5
+file =d mel5
 ANNOTATION=dmel-all-r5.57.gff
 
 CORES=4
